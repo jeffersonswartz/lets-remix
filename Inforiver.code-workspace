@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ibcslibrary"
+		},
+		{
+			"path": "InforiverPowerBI"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ibcslibrary"
+	}
+}
